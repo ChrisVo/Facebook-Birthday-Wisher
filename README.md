@@ -3,7 +3,7 @@ This script will say happy birthday to your friends on FB.
 
 # Requirements
 
-At least `Python 2.7`, `Selenium`, `Pyautogui`, `Random`, and `Schedule`
+`Python 2.7+`, `Selenium`, `Pyautogui`, `Random`, and `Schedule`
 
 
 # Instructions
