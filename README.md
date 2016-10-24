@@ -1,4 +1,4 @@
-# Facebook Birthday Wisher
+# Facebook HapPY Birthday Poster
 This script will say happy birthday to your friends on FB.
 
 # Requirements
