@@ -1,4 +1,4 @@
-# Facebook-Birthday-Wisher
+# Facebook Birthday Wisher
 This script will say happy birthday to your friends on FB.
 
 # Requirements
